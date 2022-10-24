@@ -1,5 +1,7 @@
 import  './form';
 import './submit';
+import { Tooltip, Toast, Popover } from 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import "../css/index.css";
 
